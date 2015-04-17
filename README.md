@@ -31,7 +31,7 @@ Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Bosnian, Catalan, Chiga, Congo Sw
 
 ## Release Notes
 
-**Version 1.0**
+**Version 1.000**
 
 * Replaced double-story lowercase `g` with single-story glyph
 * Increased ascenders, descenders, and x-height by 5%  
@@ -51,6 +51,13 @@ Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Bosnian, Catalan, Chiga, Congo Sw
 * Added baseline serifs to lowercase `i`
 * Tittle height and width are now symmetrical  
 * Adjusted numbers to match the `cap-height`  
+
+**Version 1.001**
+
+* Added missing `grave` accent mark
+* Increased stem width for capital `M`
+* Slashes overshoot the baseline now
+* Various other minor adjustments
 
 ## License
 This Font Software is licensed under the [SIL Open Font License](http://scripts.sil.org/OFL), Version 1.1  
