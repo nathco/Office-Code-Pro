@@ -17,7 +17,7 @@ OpenType, TrueType, EOT, WOFF
 
 ## Languages 
 
-Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Bosnian, Catalan, Chiga, Congo Swahili, Cornish, Croatian, Czech, Danish, Dutch, Embu, English, Esperanto, Estonian, Faroese, Filipino, Finnish, French, Galician, German, Gusii, Hungarian, Icelandic, Indonesian, Irish, Italian, Kabuverdianu, Kalaallisut, Kalenjin, Kamba, Kikuyu, Kinyarwanda, Lithuanian, Luo, Luyia, Machame, Makhuwa-Meetto, Makonde, Malagasy, Malay, Maltese, Manx, Meru, Morisyen, North Ndebele, Norwegian Bokmål, Norwegian Nynorsk, Nyankole, Oromo, Polish, Portuguese, Rombo, Rundi, Rwa, Samburu, Sango, Sangu, Sena, Shambala, Shona, Slovak, Slovenian, Soga, Somali, Spanish, Swahili, Swedish, Swiss German, Taita, Teso, Turkish, Vunjo, Welsh, Zulu   
+Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Bosnian, Catalan, Chiga, Congo Swahili, Cornish, Croatian, Czech, Danish, Dutch, Embu, English, Esperanto, Estonian, Faroese, Filipino, Finnish, French, Galician, German, Gusii, Hungarian, Icelandic, Indonesian, Irish, Italian, Kabuverdianu, Kalaallisut, Kalenjin, Kamba, Kikuyu, Kinyarwanda, Lithuanian, Luo, Luyia, Machame, Makhuwa-Meetto, Makonde, Malagasy, Malay, Maltese, Manx, Meru, Morisyen, North Ndebele, Norwegian Bokmål, Norwegian Nynorsk, Nyankole, Oromo, Polish, Portuguese, Rombo, Rundi, Rwa, Samburu, Sango, Sangu, Sena, Shambala, Shona, Slovak, Slovenian, Soga, Somali, Spanish, Swahili, Swedish, Swiss German, Taita, Teso, Turkish, Vunjo, Welsh, Zulu  
 
 ## OpenType Features  
 
@@ -30,6 +30,19 @@ Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Bosnian, Catalan, Chiga, Congo Sw
 * Superscript & Subscript    
 
 ## Release Notes
+
+**Version 1.002 — Latest**
+
+* Added glyphs for the Powerline statusline plugin
+* Increased `tittle` diameter and vertical position
+* Minor adjustments to lowercase `a`
+* Updated OpenType feature generation
+
+**Version 1.001**
+
+* Added missing `grave` accent mark
+* Increased stem width for capital `M`
+* Slashes overshoot the baseline now
 
 **Version 1.000**
 
@@ -44,20 +57,13 @@ Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Bosnian, Catalan, Chiga, Congo Sw
 * Slashes have increased angle and stop at baseline
 * Copyright and Published symbols are more circular 
 * Added slashed zero glyph  
-* Opened the counter on number `4`    
+* Opened the counter on number `four`    
 * Removed `fl` and `fi` ligatures  
 * Increased stem height for lowercase `t`  
 * Decreased the terminal length for lowercase `a`
 * Added baseline serifs to lowercase `i`
-* Tittle height and width are now symmetrical  
+* Decreased crossbar width for lowercase `i` and `j`
 * Adjusted numbers to match the `cap-height`  
-
-**Version 1.001**
-
-* Added missing `grave` accent mark
-* Increased stem width for capital `M`
-* Slashes overshoot the baseline now
-* Various other minor adjustments
 
 ## License
 This Font Software is licensed under the [SIL Open Font License](http://scripts.sil.org/OFL), Version 1.1  
