@@ -13,7 +13,7 @@ Light, Regular, Medium, Bold
 Light D, Regular D, Medium D, Bold D    
 
 **Available Formats**  
-OpenType, TrueType, EOT, WOFF 
+OpenType, TrueType, EOT, WOFF, WOFF2 
 
 ## Languages 
 
@@ -31,7 +31,12 @@ Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Bosnian, Catalan, Chiga, Congo Sw
 
 ## Release Notes
 
-**Version 1.002 — Latest**
+**Version 1.003 — Latest**
+
+* Added `WOFF2` font format
+* Added support for OS X Smart Collections
+
+**Version 1.002**
 
 * Added glyphs for the Powerline statusline plugin
 * Increased `tittle` diameter and vertical position
