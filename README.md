@@ -1,19 +1,21 @@
 # Office Code Pro 
-**Office Code Pro** is a customized version of the **Source Code Pro** type family, originally created for Adobe Systems Incorporated by Paul D. Hunt. The customizations were made specifically for text editors and coding environments, but are still very usable in other applications.
+**Office Code Pro** is a customized version of **Source Code Pro**, the monospaced sans serif originally created by Paul D. Hunt for Adobe Systems Incorporated. The customizations were made specifically for text editors and coding environments, but are still very usable in other applications.
 
 ## Preview
 ![example](Preview.png)    
 
-## Font Variants        
+## Font Variants  
 
-**Office Code Pro**      
-Light, Regular, Medium, Bold
+**Office Code Pro**        
+Light, Regular, Medium, Bold, and Italic companions         
 
-**Office Code Pro** ( Dotted Zero )        
-Light D, Regular D, Medium D, Bold D    
+**Office Code Pro D** ( Dotted Zero )            
+Light, Regular, Medium, Bold, and Italic companions       
 
 **Available Formats**  
-OpenType, TrueType, EOT, WOFF, WOFF2 
+OpenType, TrueType, EOT, WOFF, WOFF2     
+–     
+OpenType ( OTF ) is the recommended font format for desktop use. The TrueType ( TTF ) fonts will work in most circumstances, but are optimized and recommended as webfonts. EOT, WOFF, and WOFF2 formats are exclusively for web use.
 
 ## Languages 
 
@@ -31,7 +33,12 @@ Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Bosnian, Catalan, Chiga, Congo Sw
 
 ## Release Notes
 
-**Version 1.003 — Latest**
+**Version 1.004 — Latest**
+
+* Added italic style for all font weights
+* Various other minor adjustments
+
+**Version 1.003**
 
 * Added `WOFF2` font format
 * Added support for OS X Smart Collections
@@ -60,6 +67,7 @@ Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Bosnian, Catalan, Chiga, Congo Sw
 * Adjusted curly braces for better distinction between `Parenthesis` and `Brackets`
 * Increased angle for `Greater` and `Less` glyphs
 * Slashes have increased angle and stop at baseline
+* The `@` symbol now matches the capital height
 * Copyright and Published symbols are more circular 
 * Added slashed zero glyph  
 * Opened the counter on number `four`    
@@ -68,7 +76,7 @@ Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Bosnian, Catalan, Chiga, Congo Sw
 * Decreased the terminal length for lowercase `a`
 * Added baseline serifs to lowercase `i`
 * Decreased crossbar width for lowercase `i` and `j`
-* Adjusted numbers to match the `cap-height`  
+* Adjusted numbers to match the capital height  
 
 ## License
 This Font Software is licensed under the [SIL Open Font License](http://scripts.sil.org/OFL), Version 1.1  
